@@ -4,7 +4,7 @@ Displays
  * Hostname
  * $PID
 
-## To Run:
+## To Run::
 
 ```
 export WELCOME_MSG="Hello World"
